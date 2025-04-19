@@ -1,0 +1,28 @@
+{
+  "name": "authentication-system",
+  "version": "1.0.0",
+  "description": "Authentication system built with nodejs+express+mongoose+ejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/SoladrinHub/auth-system.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SoladrinHub/auth-system/issues"
+  },
+  "homepage": "https://github.com/SoladrinHub/auth-system#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "connect-mongo": "^5.1.0",
+    "ejs": "^3.1.10",
+    "express": "^5.1.0",
+    "express-session": "^1.18.1",
+    "mongoose": "^8.13.2"
+  }
+}
